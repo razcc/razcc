@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rafael Leonardi</h1>
 
 <h3 align="center">A passionate Junior Web Developer from Italy</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrododi&label=Profile%20views&color=0e75b6&style=flat" alt="alessandrododi" /> </p>
+
 
 * 👨‍💻  In September 2022 I began my personal and professional growth journey. I attended the Full Stack Web Developer course with Boolean, which provided me with the necessary foundations to launch myself into this world
  <br>

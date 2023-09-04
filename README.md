@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my projects are available here on my GitHub Account, or you can check my <a href="https://linkedin.com/in/alessandro-dodi" target="blank">Portfolio</a><br>
 
-- 📫 How to reach me **rafael.leonardi98gmail.com** or <a href="https://www.linkedin.com/in/rafael-leonardi-a667b4215/" target="blank">
+- 📫 How to reach me **rafael.leonardi98gmail.com** or <a href="https://rafael-leonardi.netlify.app/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rafael Leonardi" height="30" width="40" /></a>
